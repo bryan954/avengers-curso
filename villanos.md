@@ -2,4 +2,4 @@
 
 * Lex Luthor
 * Joker
-* Flash Reverso
+* Capitan América
